@@ -2,10 +2,13 @@
 
 ## 📂 Estructura del proyecto
 
-GestionSustituciones/
 ├── src/
-│ ├── Main.java
-│ └── GestorSustituciones.java
+│   ├── Main.java
+│   └── GestorSustituciones.java
 ├── data/
-│ └── (opcional: CSV de horarios si se quiere expandir)
-└── README.md
+│   └── horarios/         # (solo si decides usar CSV más adelante)
+│       ├── Salva.csv
+│       ├── Luis.csv
+│       ├── Lola.csv
+│       ├── Guillem.csv
+│       └── Juan.csv
