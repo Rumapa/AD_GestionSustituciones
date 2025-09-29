@@ -9,7 +9,6 @@ El programa permite buscar profesores sustitutos, registrar las sustituciones y 
 
 ```text
 gestion-sustituciones/
-├── README.md
 ├── src/
 │   ├── Main.java
 │   └── GestorSustituciones.java
