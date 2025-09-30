@@ -13,10 +13,10 @@ gestion-sustituciones/
 │   ├── Main.java
 │   └── GestorSustituciones.java
 ├── data/
-│   ├── horarios/
-│   │   ├── Salva.csv
-│   │   ├── Luis.csv
-│   │   ├── Lola.csv
-│   │   ├── Guillem.csv
-│   │   └── Juan.csv
-│   └── sustituciones.csv
+│   └── horarios/
+│      ├── Salva.csv
+│      ├── Luis.csv
+│      ├── Lola.csv
+│      ├── Guillem.csv
+│      └── Juan.csv
+│   
